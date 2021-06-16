@@ -1,0 +1,58 @@
+﻿gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status
+Female,66,0,0,Yes,Self-employed,Urban,101.45,N/A,Unknown
+Female,79,0,0,No,Private,Rural,88.92,22.9,never smoked
+Female,68,1,0,No,Self-employed,Urban,79.79,29.7,never smoked
+Male,58,0,0,Yes,Private,Urban,71.2,N/A,Unknown
+Male,54,0,0,Yes,Private,Rural,96.97,29.1,smokes
+Male,61,0,1,Yes,Private,Rural,111.81,27.3,smokes
+Female,70,0,1,Yes,Private,Rural,59.35,32.3,formerly smoked
+Male,47,0,0,Yes,Private,Urban,86.94,41.1,formerly smoked
+Male,74,0,0,Yes,Private,Urban,98.55,25.6,Unknown
+Female,79,0,1,Yes,Private,Urban,226.98,29.8,never smoked
+Male,81,0,0,Yes,Private,Urban,72.81,26.3,never smoked
+Female,57,0,0,No,Self-employed,Urban,68.02,37.5,never smoked
+Female,80,1,0,Yes,Self-employed,Urban,68.56,26.2,Unknown
+Male,45,0,0,Yes,Private,Rural,64.14,29.4,never smoked
+Female,78,0,0,Yes,Private,Rural,235.63,32.3,never smoked
+Female,70,0,0,Yes,Self-employed,Rural,76.34,24.4,formerly smoked
+Male,58,0,1,Yes,Private,Rural,240.59,31.4,smokes
+Male,57,1,0,Yes,Govt_job,Urban,78.92,27.7,formerly smoked
+Female,69,0,0,Yes,Govt_job,Urban,82.81,28,never smoked
+Male,64,0,1,Yes,Govt_job,Urban,74.1,28.8,Unknown
+Male,57,0,0,Yes,Private,Urban,86.3,31.7,Unknown
+Male,77,0,0,Yes,Self-employed,Rural,162.14,32.6,formerly smoked
+Female,51,1,0,Yes,Private,Urban,88.2,28.4,never smoked
+Male,60,0,1,Yes,Private,Urban,91.92,35.9,smokes
+Male,66,0,0,Yes,Private,Rural,76.46,21.2,formerly smoked
+Male,57,0,0,Yes,Private,Rural,197.28,34.5,formerly smoked
+Male,68,0,0,Yes,Private,Rural,233.94,42.4,never smoked
+Female,68,1,1,Yes,Private,Urban,247.51,40.5,formerly smoked
+Male,57,0,0,Yes,Private,Rural,84.96,36.7,Unknown
+Female,14,0,0,No,children,Rural,57.93,30.9,Unknown
+Female,75,0,0,Yes,Self-employed,Rural,78.8,29.3,formerly smoked
+Male,71,1,0,Yes,Self-employed,Rural,87.8,N/A,Unknown
+Female,78,0,0,Yes,Private,Rural,78.81,19.6,Unknown
+Male,3,0,0,No,children,Rural,95.12,18,Unknown
+Male,58,1,0,Yes,Private,Urban,87.96,39.2,never smoked
+Female,8,0,0,No,Private,Urban,110.89,17.6,Unknown
+Female,70,0,0,Yes,Private,Rural,69.04,35.9,formerly smoked
+Male,14,0,0,No,Never_worked,Rural,161.28,19.1,Unknown
+Female,47,0,0,Yes,Private,Urban,210.95,50.1,Unknown
+Female,52,0,0,Yes,Private,Urban,73.73,34.4,formerly smoked
+Female,68,0,0,Yes,Private,Urban,79.58,22.2,never smoked
+Female,5,0,0,No,children,Urban,77.88,13.8,Unknown
+Female,56,1,0,Yes,Private,Rural,205.26,40.3,never smoked
+Female,43,0,0,Yes,Private,Rural,58.63,28.4,smokes
+Female,40,0,0,Yes,Private,Rural,139.9,31.7,smokes
+Male,53,0,0,Yes,Private,Urban,211.03,34.2,formerly smoked
+Female,52,0,1,Yes,Private,Urban,72.79,54.7,never smoked
+Male,31,0,0,Yes,Govt_job,Rural,91.65,24.6,formerly smoked
+Female,63,0,0,Yes,Govt_job,Rural,79.92,N/A,smokes
+Female,69,0,0,Yes,Self-employed,Rural,225.47,36.9,never smoked
+Male,64,0,0,Yes,Govt_job,Urban,94.48,31.1,never smoked
+Female,64,0,0,Yes,Private,Urban,82.34,31.9,never smoked
+Female,62,0,0,Yes,Self-employed,Urban,180.63,31.8,formerly smoked
+Female,2,0,0,No,children,Rural,92.48,18,Unknown
+Male,53,0,0,Yes,Private,Rural,116.66,28.5,formerly smoked
+Male,65,1,0,Yes,Private,Urban,112.09,29.5,never smoked
+Female,22,0,0,No,Private,Urban,130.34,22,never smoked
